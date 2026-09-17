@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fractal-techware.github.io/sitemap.xml

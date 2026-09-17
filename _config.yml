@@ -1,0 +1,17 @@
+title: Fractal Techware
+description: Tested Prometheus alerts, OpenTelemetry Collector configs, Grafana dashboards and Kubernetes guardrails.
+url: https://fractal-techware.github.io
+baseurl: ""
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}
+exclude: [README.md, scripts]
