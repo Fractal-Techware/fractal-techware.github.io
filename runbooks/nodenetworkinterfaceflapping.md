@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeNetworkInterfaceFlapping is one of 25 node_exporter host alerts in the pack of 179, every one unit tested with promtool and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodenetworkinterfaceflapping
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodenetworkinterfaceflapping
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeNetworkInterfaceFlapping

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "The pack of 179 alerts includes KubeStatefulSetGenerationMismatch and 12 other workload alerts, all unit tested with promtool and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubestatefulsetgenerationmismatch
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubestatefulsetgenerationmismatch
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeStatefulSetGenerationMismatch

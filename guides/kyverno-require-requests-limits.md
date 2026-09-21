@@ -8,7 +8,7 @@ cta:
   title: "21 tested Kyverno policies, ready for Audit to Enforce rollout"
   text: "The hardening kit bundles resource governance with probes, non-root, seccomp, capabilities and image controls, plus a Helm chart, Warn and Enforce overlays and an exceptions workflow."
   button: See the hardening kit
-  url: https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-require-requests-limits
+  url: https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-require-requests-limits
   free: https://github.com/Fractal-Techware/kubernetes-hardening-baseline
 ---
 # Kyverno: require CPU and memory requests and limits

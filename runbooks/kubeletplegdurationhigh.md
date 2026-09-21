@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeletPlegDurationHigh is one of 12 Kubernetes control plane and kubelet alerts in the pack of 179, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeletplegdurationhigh
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeletplegdurationhigh
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeletPlegDurationHigh

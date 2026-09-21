@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "CoreDNSForwardHealthcheckFailures is one of 6 CoreDNS alerts in the pack of 179, all shipped with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=corednsforwardhealthcheckfailures
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=corednsforwardhealthcheckfailures
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # CoreDNSForwardHealthcheckFailures

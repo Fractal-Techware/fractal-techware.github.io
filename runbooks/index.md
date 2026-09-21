@@ -7,7 +7,7 @@ description: Runbooks for common Prometheus alerts on Kubernetes, Linux hosts, P
 <!-- RUNBOOK_INDEX:START -->
 Mid-incident and staring at an unfamiliar alert name? Each page below explains what a common Prometheus alert means in plain words, what usually causes it, and the first commands to run (kubectl, PromQL, shell) to find out what is actually wrong.
 
-The alerts come from the [Prometheus Alert Rules & Runbook Pack](https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=index): 179 alerts across 20 domains, every one covered by promtool unit tests. 12 of them, with their rules, tests and full runbooks, are free under MIT in [prometheus-alert-rules on GitHub](https://github.com/Fractal-Techware/prometheus-alert-rules); those pages are marked *free rule*.
+The alerts come from the [Prometheus Alert Rules & Runbook Pack](https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=index): 179 alerts across 20 domains, every one covered by promtool unit tests. 12 of them, with their rules, tests and full runbooks, are free under MIT in [prometheus-alert-rules on GitHub](https://github.com/Fractal-Techware/prometheus-alert-rules); those pages are marked *free rule*.
 
 ## Kubernetes workloads
 

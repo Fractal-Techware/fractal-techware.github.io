@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeletServerCertificateExpiration comes with warning and critical tiers in a pack of 179 tested alerts, each with a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeletservercertificateexpiration
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeletservercertificateexpiration
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeletServerCertificateExpiration

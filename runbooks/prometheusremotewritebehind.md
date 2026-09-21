@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusRemoteWriteBehind is one of the Prometheus self-monitoring alerts (20 in total) in the pack of 179 with promtool tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusremotewritebehind
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusremotewritebehind
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusRemoteWriteBehind

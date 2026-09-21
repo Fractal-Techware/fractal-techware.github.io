@@ -8,7 +8,7 @@ cta:
   title: "Hardened PII redaction and 15 more tested collector recipes"
   text: "The pack's redaction recipe adds a second layer with the redaction processor, span event coverage, integer card numbers, Basic auth and query-string secrets, verified by an automated end-to-end test."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-redact-pii-ottl
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-redact-pii-ottl
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # Redact PII in the OpenTelemetry Collector with OTTL

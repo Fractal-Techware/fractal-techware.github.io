@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PostgresqlTooManyConnections ships in the pack of 179 alerts, alongside 9 other PostgreSQL rules, all unit tested with promtool and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqltoomanyconnections
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqltoomanyconnections
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PostgresqlTooManyConnections

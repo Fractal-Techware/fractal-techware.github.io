@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusSDRefreshFailure is one of 20 Prometheus self-monitoring alerts in the 179-alert pack, all with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheussdrefreshfailure
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheussdrefreshfailure
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusSDRefreshFailure

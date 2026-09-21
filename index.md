@@ -26,29 +26,29 @@ Everything we publish ships with automated tests: promtool for alerts, `otelcol 
 
 ## Full packs
 
-**[The SRE Toolkit](https://fractaltechware.gumroad.com/sre?utm_source=site&utm_medium=home&utm_campaign=sre-toolkit)** puts the six observability and Kubernetes packs on one page, with the bundle maths and the free editions.
+**[The SRE Toolkit](https://store.fractaltechware.com/sre?utm_source=site&utm_medium=home&utm_campaign=sre-toolkit)** puts the six observability and Kubernetes packs on one page, with the bundle maths and the free editions.
 
 ### Observability & SRE
 
-- [Prometheus Alert Rules & Runbook Pack](https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=home): 179 alerts, 364 promtool tests, a runbook each
-- [OpenTelemetry Collector Production Recipes](https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=home): 16 recipes, pinned to otelcol-contrib 0.161.0
-- [Grafana Observability Dashboard Pack](https://fractaltechware.gumroad.com/l/grafana-dashboard-pack?utm_source=site&utm_medium=home): up to 13 dashboards, Mimir/Thanos/VictoriaMetrics compatible
-- [SLO-as-Code Kit](https://fractaltechware.gumroad.com/l/slo-as-code-kit?utm_source=site&utm_medium=home): 21 SLI templates, 123 burn-rate timing scenarios, error budget reports
-- [Single-VPS Observability Stack](https://fractaltechware.gumroad.com/l/vps-observability-stack?utm_source=site&utm_medium=home): Prometheus, Grafana, Loki & Tempo behind HTTPS, backups that restore
+- [Prometheus Alert Rules & Runbook Pack](https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=home): 179 alerts, 364 promtool tests, a runbook each
+- [OpenTelemetry Collector Production Recipes](https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=home): 16 recipes, pinned to otelcol-contrib 0.161.0
+- [Grafana Observability Dashboard Pack](https://store.fractaltechware.com/l/grafana-dashboard-pack?utm_source=site&utm_medium=home): up to 13 dashboards, Mimir/Thanos/VictoriaMetrics compatible
+- [SLO-as-Code Kit](https://store.fractaltechware.com/l/slo-as-code-kit?utm_source=site&utm_medium=home): 21 SLI templates, 123 burn-rate timing scenarios, error budget reports
+- [Single-VPS Observability Stack](https://store.fractaltechware.com/l/vps-observability-stack?utm_source=site&utm_medium=home): Prometheus, Grafana, Loki & Tempo behind HTTPS, backups that restore
 
 ### Kubernetes & delivery
 
-- [Kubernetes Hardening Baseline Kit](https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=home): 21 Kyverno policies, 108 assertions, audit CLI
-- [Production Helm Chart Kit](https://fractaltechware.gumroad.com/l/helm-production-chart?utm_source=site&utm_medium=home): 266 helm-unittest runs, checked on live 1.35 and 1.37 clusters
+- [Kubernetes Hardening Baseline Kit](https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=home): 21 Kyverno policies, 108 assertions, audit CLI
+- [Production Helm Chart Kit](https://store.fractaltechware.com/l/helm-production-chart?utm_source=site&utm_medium=home): 266 helm-unittest runs, checked on live 1.35 and 1.37 clusters
 
 ### Automation & AI
 
-- [n8n Production Self-Hosting Kit](https://fractaltechware.gumroad.com/l/n8n-production-kit?utm_source=site&utm_medium=home): hardened Compose and queue mode, backups proven to restore
-- [n8n AI Incident Triage Workflows](https://fractaltechware.gumroad.com/l/n8n-incident-triage-workflows?utm_source=site&utm_medium=home): 6 / 12 / 16 workflows for Alertmanager, Grafana and Kubernetes
-- [n8n AI Workflows for GitHub](https://fractaltechware.gumroad.com/l/n8n-github-ai-workflows?utm_source=site&utm_medium=home): 9 / 15 / 18 workflows, HMAC-verified, diffs redacted and size-capped
+- [n8n Production Self-Hosting Kit](https://store.fractaltechware.com/l/n8n-production-kit?utm_source=site&utm_medium=home): hardened Compose and queue mode, backups proven to restore
+- [n8n AI Incident Triage Workflows](https://store.fractaltechware.com/l/n8n-incident-triage-workflows?utm_source=site&utm_medium=home): 6 / 12 / 16 workflows for Alertmanager, Grafana and Kubernetes
+- [n8n AI Workflows for GitHub](https://store.fractaltechware.com/l/n8n-github-ai-workflows?utm_source=site&utm_medium=home): 9 / 15 / 18 workflows, HMAC-verified, diffs redacted and size-capped
 
 ### Bundles
 
-- [SRE Observability Bundle](https://fractaltechware.gumroad.com/l/sre-observability-bundle?utm_source=site&utm_medium=home): alerts, Collector recipes, dashboards and hardening — $129, save 31%
-- [Kubernetes Delivery Bundle](https://fractaltechware.gumroad.com/l/kubernetes-delivery-bundle?utm_source=site&utm_medium=home): Helm chart, hardening policies and alerts — $99, save 33%
-- [n8n Automation Bundle](https://fractaltechware.gumroad.com/l/n8n-automation-bundle?utm_source=site&utm_medium=home): self-hosting kit, incident triage and GitHub workflows — $99, save 33%
+- [SRE Observability Bundle](https://store.fractaltechware.com/l/sre-observability-bundle?utm_source=site&utm_medium=home): alerts, Collector recipes, dashboards and hardening — $129, save 31%
+- [Kubernetes Delivery Bundle](https://store.fractaltechware.com/l/kubernetes-delivery-bundle?utm_source=site&utm_medium=home): Helm chart, hardening policies and alerts — $99, save 33%
+- [n8n Automation Bundle](https://store.fractaltechware.com/l/n8n-automation-bundle?utm_source=site&utm_medium=home): self-hosting kit, incident triage and GitHub workflows — $99, save 33%

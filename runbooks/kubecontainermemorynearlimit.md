@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeContainerMemoryNearLimit is one of 7 Kubernetes quota, limit and PDB alerts in the pack of 179, with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubecontainermemorynearlimit
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubecontainermemorynearlimit
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeContainerMemoryNearLimit

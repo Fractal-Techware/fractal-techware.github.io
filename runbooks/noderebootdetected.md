@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeRebootDetected is one of 179 tested alerts in the pack, with 25 covering hosts, each shipped with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=noderebootdetected
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=noderebootdetected
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeRebootDetected

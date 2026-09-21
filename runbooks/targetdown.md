@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "TargetDown is one of 20 Prometheus self-monitoring alerts in the pack of 179 alerts, each shipped with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=targetdown
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=targetdown
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # TargetDown

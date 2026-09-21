@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusLabelLimitHit ships with the other Prometheus self-monitoring alerts, 20 of the 179 in the pack, each unit tested with promtool."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheuslabellimithit
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheuslabellimithit
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusLabelLimitHit

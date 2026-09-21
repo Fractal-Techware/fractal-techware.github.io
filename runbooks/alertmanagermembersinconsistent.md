@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "AlertmanagerMembersInconsistent is one of 6 Alertmanager alerts in the pack of 179, all shipped with promtool unit tests and a detailed runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagermembersinconsistent
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagermembersinconsistent
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # AlertmanagerMembersInconsistent

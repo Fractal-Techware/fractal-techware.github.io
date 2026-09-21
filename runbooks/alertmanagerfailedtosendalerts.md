@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "AlertmanagerFailedToSendAlerts ships in the pack of 179 alerts alongside 5 other Alertmanager checks, each with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagerfailedtosendalerts
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagerfailedtosendalerts
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # AlertmanagerFailedToSendAlerts

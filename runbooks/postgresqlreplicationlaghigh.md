@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PostgresqlReplicationLagHigh is part of the 10-alert PostgreSQL set in a pack of 179 rules, each shipped with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlreplicationlaghigh
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlreplicationlaghigh
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PostgresqlReplicationLagHigh

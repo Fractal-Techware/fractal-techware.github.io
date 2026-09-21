@@ -20,7 +20,7 @@ PACK = os.environ.get("PACK_DIR", os.path.join(SITE, "..", "..", "prometheus-ale
 FREE = os.environ.get("FREE_DIR", os.path.join(SITE, "..", "prometheus-alert-rules-free"))
 RB = os.path.join(SITE, "runbooks")
 FREE_REPO = "https://github.com/Fractal-Techware/prometheus-alert-rules"
-PACK_URL = "https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack"
+PACK_URL = "https://store.fractaltechware.com/l/prometheus-alert-rules-pack"
 INDEX_MARKER_START = "<!-- RUNBOOK_INDEX:START -->"
 INDEX_MARKER_END = "<!-- RUNBOOK_INDEX:END -->"
 

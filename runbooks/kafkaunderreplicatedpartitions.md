@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KafkaUnderReplicatedPartitions is one of the 6 Kafka alerts in a pack of 179 Prometheus alerts, all unit tested and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaunderreplicatedpartitions
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaunderreplicatedpartitions
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KafkaUnderReplicatedPartitions

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "RedisKeyEvictions is included in the pack of 179 alerts with 8 other Redis rules, each backed by promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=rediskeyevictions
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=rediskeyevictions
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # RedisKeyEvictions

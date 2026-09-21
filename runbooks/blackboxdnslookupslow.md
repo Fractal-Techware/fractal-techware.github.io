@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "BlackboxDnsLookupSlow is part of the endpoint probe set in the pack of 179 alerts, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxdnslookupslow
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxdnslookupslow
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # BlackboxDnsLookupSlow

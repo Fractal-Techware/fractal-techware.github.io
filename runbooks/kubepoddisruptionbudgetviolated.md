@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubePodDisruptionBudgetViolated is in the pack of 179 alerts alongside the other PDB and quota rules, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubepoddisruptionbudgetviolated
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubepoddisruptionbudgetviolated
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubePodDisruptionBudgetViolated

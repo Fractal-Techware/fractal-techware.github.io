@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeClusterMemoryRequestsHigh ships with promtool unit tests and a full runbook, as part of a pack of 179 Prometheus alerts."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeclustermemoryrequestshigh
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeclustermemoryrequestshigh
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeClusterMemoryRequestsHigh

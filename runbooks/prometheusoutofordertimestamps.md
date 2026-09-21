@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusOutOfOrderTimestamps is included with 19 other Prometheus self-monitoring rules in the pack of 179 tested alerts with runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusoutofordertimestamps
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusoutofordertimestamps
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusOutOfOrderTimestamps

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeDiskIOSaturation is one of 25 node_exporter alerts in a pack of 179, each tested with promtool and paired with a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodediskiosaturation
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodediskiosaturation
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeDiskIOSaturation

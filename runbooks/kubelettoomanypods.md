@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeletTooManyPods is one of 179 alerts in the pack, each with promtool unit tests and a full runbook, 8 of them for nodes and capacity."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubelettoomanypods
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubelettoomanypods
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeletTooManyPods

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeOOMKillDetected is one of 179 alerts in the pack, including 25 for node_exporter hosts, all with promtool unit tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodeoomkilldetected
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodeoomkilldetected
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeOOMKillDetected

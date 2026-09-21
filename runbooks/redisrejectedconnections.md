@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "RedisRejectedConnections is one of the Redis alerts in a 179-alert pack where every rule has promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redisrejectedconnections
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redisrejectedconnections
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # RedisRejectedConnections

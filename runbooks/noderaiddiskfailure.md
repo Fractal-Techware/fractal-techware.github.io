@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeRAIDDiskFailure is one of 25 host alerts in the 179-alert pack, and every one comes with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=noderaiddiskfailure
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=noderaiddiskfailure
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeRAIDDiskFailure

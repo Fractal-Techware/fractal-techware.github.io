@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusTSDBCompactionsFailing is part of the Prometheus self-monitoring set (20 alerts) in the 179-alert pack, all with tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheustsdbcompactionsfailing
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheustsdbcompactionsfailing
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusTSDBCompactionsFailing

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KafkaConsumerGroupLagGrowing is part of the Kafka set in a pack of 179 Prometheus alerts, each with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergrouplaggrowing
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergrouplaggrowing
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KafkaConsumerGroupLagGrowing

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PostgresqlExporterScrapeError is one of 10 PostgreSQL alerts in a 179-alert pack, every rule covered by promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlexporterscrapeerror
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlexporterscrapeerror
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PostgresqlExporterScrapeError

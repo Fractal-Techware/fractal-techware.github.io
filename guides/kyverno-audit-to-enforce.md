@@ -8,7 +8,7 @@ cta:
   title: "21 Kyverno policies with a ready-made rollout path"
   text: "The hardening kit packages this process: Warn and Enforce overlays, a Helm chart with per-policy modes, an exceptions guide with review workflow, a migration guide and an audit CLI to size the work up front."
   button: See the hardening kit
-  url: https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-audit-to-enforce
+  url: https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-audit-to-enforce
   free: https://github.com/Fractal-Techware/kubernetes-hardening-baseline
 ---
 # Rolling out Kyverno from Audit to Enforce safely

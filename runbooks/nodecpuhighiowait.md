@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeCPUHighIOWait ships in the pack of 179 alerts, alongside 24 other node_exporter host alerts, each with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodecpuhighiowait
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodecpuhighiowait
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeCPUHighIOWait

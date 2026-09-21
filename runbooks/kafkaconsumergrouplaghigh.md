@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KafkaConsumerGroupLagHigh is one of 6 Kafka consumer and broker alerts in the pack of 179, each with unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergrouplaghigh
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergrouplaghigh
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KafkaConsumerGroupLagHigh

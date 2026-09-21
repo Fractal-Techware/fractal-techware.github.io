@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PostgresqlHighDeadTuples is one of the 10 PostgreSQL rules in a pack of 179 alerts, all shipped with promtool unit tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlhighdeadtuples
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqlhighdeadtuples
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PostgresqlHighDeadTuples

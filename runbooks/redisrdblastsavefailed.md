@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "RedisRdbLastSaveFailed is one of 9 Redis rules in the pack of 179 alerts, all tested with promtool and each paired with a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redisrdblastsavefailed
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redisrdblastsavefailed
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # RedisRdbLastSaveFailed

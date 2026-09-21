@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PostgresqlLongRunningTransaction comes with the pack of 179 alerts, including 10 for PostgreSQL, every one unit tested and backed by a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqllongrunningtransaction
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=postgresqllongrunningtransaction
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PostgresqlLongRunningTransaction

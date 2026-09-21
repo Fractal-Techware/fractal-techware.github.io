@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeAPIErrorsHigh ships with warning and critical tiers in a pack of 179 tested alerts, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeapierrorshigh
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeapierrorshigh
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeAPIErrorsHigh

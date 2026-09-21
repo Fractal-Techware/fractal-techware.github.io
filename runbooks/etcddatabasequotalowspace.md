@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "EtcdDatabaseQuotaLowSpace is one of 8 etcd alerts in the pack of 179, with warning and critical tiers covered by promtool unit tests."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcddatabasequotalowspace
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcddatabasequotalowspace
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # EtcdDatabaseQuotaLowSpace

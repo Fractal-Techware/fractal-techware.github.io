@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "BlackboxSslCertificateWillExpireSoon is one of 6 blackbox_exporter alerts in the pack of 179, with warning and critical tiers, unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxsslcertificatewillexpiresoon
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxsslcertificatewillexpiresoon
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # BlackboxSslCertificateWillExpireSoon

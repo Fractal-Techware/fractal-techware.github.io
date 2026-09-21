@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeDaemonSetNotScheduled comes with promtool unit tests and a full runbook, as do the other 12 workload alerts in the pack of 179."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubedaemonsetnotscheduled
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubedaemonsetnotscheduled
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeDaemonSetNotScheduled

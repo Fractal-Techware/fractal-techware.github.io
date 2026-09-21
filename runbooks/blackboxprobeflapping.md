@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "BlackboxProbeFlapping ships with 5 other blackbox_exporter alerts in the pack of 179, all with promtool unit tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxprobeflapping
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxprobeflapping
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # BlackboxProbeFlapping

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "BlackboxExporterProbeScrapeFailed is one of 6 blackbox_exporter alerts in the pack of 179, each with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxexporterprobescrapefailed
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=blackboxexporterprobescrapefailed
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # BlackboxExporterProbeScrapeFailed

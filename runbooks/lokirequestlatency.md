@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "LokiRequestLatency is one of 5 Loki alerts in the pack of 179 Prometheus alerts, all unit tested with promtool and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=lokirequestlatency
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=lokirequestlatency
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # LokiRequestLatency

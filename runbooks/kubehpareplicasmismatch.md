@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeHpaReplicasMismatch is one of 4 HPA alerts in the pack of 179, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubehpareplicasmismatch
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubehpareplicasmismatch
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeHpaReplicasMismatch

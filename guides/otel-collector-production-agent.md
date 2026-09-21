@@ -8,7 +8,7 @@ cta:
   title: "16 production collector recipes, tested end to end"
   text: "Start from this hardened base and add what the pack covers: Kubernetes attributes, agent to gateway mTLS, trace-ID load balancing, a batching-safe persistent queue and ready-made self-monitoring alerts."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-production-agent
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-production-agent
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # Production-ready OpenTelemetry Collector config

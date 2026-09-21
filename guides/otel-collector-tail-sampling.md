@@ -8,7 +8,7 @@ cta:
   title: "16 production collector recipes, tested end to end"
   text: "The full pack includes a two-tier agent and gateway setup with trace-ID load balancing and tail sampling, plus Docker Compose files and troubleshooting notes."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-tail-sampling
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-tail-sampling
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # OpenTelemetry Collector tail sampling: a working config

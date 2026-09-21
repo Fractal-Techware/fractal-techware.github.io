@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "LokiRequestPanics ships with the other Grafana Loki alerts in a pack of 179, each tested with promtool and documented in a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=lokirequestpanics
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=lokirequestpanics
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # LokiRequestPanics

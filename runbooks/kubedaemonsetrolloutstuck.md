@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeDaemonSetRolloutStuck is one of 13 Kubernetes workload alerts in the pack of 179, each backed by promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubedaemonsetrolloutstuck
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubedaemonsetrolloutstuck
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeDaemonSetRolloutStuck

@@ -8,7 +8,7 @@ cta:
   title: "21 tested Kyverno policies, ready for Audit to Enforce rollout"
   text: "The hardening kit ships this policy alongside image digests, registry allowlists, Pod Security controls and more, each with good and bad test fixtures, Helm chart, rollout overlays and PolicyException workflow."
   button: See the hardening kit
-  url: https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-disallow-latest-tag
+  url: https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kyverno-disallow-latest-tag
   free: https://github.com/Fractal-Techware/kubernetes-hardening-baseline
 ---
 # Kyverno: disallow the :latest image tag

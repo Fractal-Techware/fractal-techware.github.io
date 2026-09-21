@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeNetworkTransmitErrs is included in the pack of 179 Prometheus alerts, next to 24 other host alerts, each with unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodenetworktransmiterrs
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodenetworktransmiterrs
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeNetworkTransmitErrs

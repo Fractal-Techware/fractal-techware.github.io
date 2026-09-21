@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeNodeCordoned is one of 8 node and capacity alerts in the pack of 179, all covered by promtool unit tests and full runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubenodecordoned
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubenodecordoned
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeNodeCordoned

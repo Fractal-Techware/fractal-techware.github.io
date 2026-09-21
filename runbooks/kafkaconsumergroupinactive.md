@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KafkaConsumerGroupInactive is one of 6 Kafka alerts in the pack of 179, each with a promtool unit test and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergroupinactive
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kafkaconsumergroupinactive
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KafkaConsumerGroupInactive

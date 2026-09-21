@@ -8,7 +8,7 @@ cta:
   title: "16 production collector recipes, tested end to end"
   text: "The pack's span metrics recipe adds exemplars, virtual nodes for databases and queues and cardinality guards, alongside the tail sampling and load-balancing recipes that fit around it."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-span-metrics-service-graph
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-span-metrics-service-graph
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # Span metrics and service graph with OpenTelemetry Collector connectors

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "ErrorBudgetBurn is the SLO alert in the pack of 179, shipped with its recording rules, promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=errorbudgetburn
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=errorbudgetburn
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # ErrorBudgetBurn

@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "RedisMissingMaster ships with 8 other Redis alerts in the pack of 179, every one unit tested with promtool and documented in a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redismissingmaster
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=redismissingmaster
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # RedisMissingMaster

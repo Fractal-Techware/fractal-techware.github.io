@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeQuotaExceeded is one of 179 alerts in the pack, grouped with the Kubernetes quota and disruption budget rules and backed by promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubequotaexceeded
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubequotaexceeded
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeQuotaExceeded

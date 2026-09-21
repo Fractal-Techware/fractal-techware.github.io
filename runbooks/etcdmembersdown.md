@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "EtcdMembersDown is part of the etcd set in a pack of 179 Prometheus alerts, each shipped with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcdmembersdown
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcdmembersdown
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # EtcdMembersDown

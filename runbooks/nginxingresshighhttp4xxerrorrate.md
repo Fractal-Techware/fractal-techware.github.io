@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NginxIngressHighHttp4xxErrorRate is part of the NGINX Ingress set in a pack of 179 alerts, each shipped with promtool unit tests and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nginxingresshighhttp4xxerrorrate
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nginxingresshighhttp4xxerrorrate
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NginxIngressHighHttp4xxErrorRate

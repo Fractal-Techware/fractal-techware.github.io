@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "CertManagerCertificateExpiringSoon is one of 6 Kubernetes certificate alerts in the pack of 179, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=certmanagercertificateexpiringsoon
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=certmanagercertificateexpiringsoon
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # CertManagerCertificateExpiringSoon

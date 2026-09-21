@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NodeMemoryMajorPagesFaults is part of a pack of 179 Prometheus alerts, 25 of them for node_exporter hosts, each unit tested and documented."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodememorymajorpagesfaults
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodememorymajorpagesfaults
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeMemoryMajorPagesFaults

@@ -12,7 +12,7 @@ cta:
   title: Get the other 167 alerts, tested
   text: NodeMemoryHighUtilization is one of 12 free alerts. The full pack has 179 alerts across 20 domains, each with promtool unit tests and a runbook.
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodememoryhighutilization
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nodememoryhighutilization
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NodeMemoryHighUtilization

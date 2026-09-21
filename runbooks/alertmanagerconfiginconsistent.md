@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "AlertmanagerConfigInconsistent is part of a pack of 179 Prometheus alerts, 6 of them for Alertmanager, each with promtool unit tests and a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagerconfiginconsistent
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=alertmanagerconfiginconsistent
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # AlertmanagerConfigInconsistent

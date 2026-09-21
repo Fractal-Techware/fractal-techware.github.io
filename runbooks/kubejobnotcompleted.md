@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeJobNotCompleted is part of a pack of 179 Prometheus alerts, all with promtool unit tests and full runbooks, including 3 for Jobs and CronJobs."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubejobnotcompleted
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubejobnotcompleted
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeJobNotCompleted

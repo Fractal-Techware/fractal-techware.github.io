@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "KubeSchedulerDown is one of 12 control plane and kubelet alerts in the pack of 179, each tested with promtool and shipped with a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeschedulerdown
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=kubeschedulerdown
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # KubeSchedulerDown

@@ -8,7 +8,7 @@ cta:
   title: "Pod Security plus 21 Kyverno policies and a hardening checklist"
   text: "The hardening kit goes beyond PSA: Kyverno policies for images, resources, probes and service exposure, NetworkPolicy allow rules, least-privilege RBAC and a CIS/NSA-mapped checklist."
   button: See the hardening kit
-  url: https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=pod-security-admission-restricted-migration
+  url: https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=pod-security-admission-restricted-migration
   free: https://github.com/Fractal-Techware/kubernetes-hardening-baseline
 ---
 # Migrate a namespace to Pod Security Admission `restricted`

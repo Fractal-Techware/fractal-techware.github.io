@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "EtcdNoLeader is one of 8 etcd alerts in the pack of 179, each tested with promtool and paired with a full runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcdnoleader
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=etcdnoleader
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # EtcdNoLeader

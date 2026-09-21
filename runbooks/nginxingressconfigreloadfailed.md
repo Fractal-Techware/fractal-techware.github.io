@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "NginxIngressConfigReloadFailed ships with the other NGINX Ingress Controller alerts in a pack of 179, each with a promtool unit test and a runbook."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nginxingressconfigreloadfailed
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=nginxingressconfigreloadfailed
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # NginxIngressConfigReloadFailed

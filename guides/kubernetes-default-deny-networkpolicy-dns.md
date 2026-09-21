@@ -8,7 +8,7 @@ cta:
   title: "Default-deny plus the allow rules you will need next"
   text: "The hardening kit includes tested allow policies for ingress controllers, Prometheus scraping, app-to-app traffic, the Kubernetes API and external CIDRs, next to 21 Kyverno policies."
   button: See the hardening kit
-  url: https://fractaltechware.gumroad.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kubernetes-default-deny-networkpolicy-dns
+  url: https://store.fractaltechware.com/l/k8s-hardening-kit?utm_source=site&utm_medium=guide&utm_campaign=kubernetes-default-deny-networkpolicy-dns
   free: https://github.com/Fractal-Techware/kubernetes-hardening-baseline
 ---
 # Kubernetes default-deny NetworkPolicy that still allows DNS

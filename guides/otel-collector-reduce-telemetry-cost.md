@@ -8,7 +8,7 @@ cta:
   title: "A complete cost-reduction recipe and 15 more, tested end to end"
   text: "The pack's cost recipe goes further: probe access-log lines, resource and span event cleanup, broader high-cardinality attribute lists and payload caps, verified by an automated end-to-end test."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-reduce-telemetry-cost
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-reduce-telemetry-cost
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # Reduce OpenTelemetry costs in the Collector

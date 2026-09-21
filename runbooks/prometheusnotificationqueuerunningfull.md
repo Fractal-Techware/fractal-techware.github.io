@@ -9,7 +9,7 @@ cta:
   title: Get this alert, tested
   text: "PrometheusNotificationQueueRunningFull is one of the 20 Prometheus self-monitoring alerts in a 179-alert pack with promtool tests and runbooks."
   button: See the alert pack
-  url: https://fractaltechware.gumroad.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusnotificationqueuerunningfull
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=runbook&utm_campaign=prometheusnotificationqueuerunningfull
   free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # PrometheusNotificationQueueRunningFull

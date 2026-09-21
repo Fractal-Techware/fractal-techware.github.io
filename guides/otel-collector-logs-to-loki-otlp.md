@@ -8,7 +8,7 @@ cta:
   title: "16 production collector recipes, tested end to end"
   text: "The full pack adds Kubernetes metadata enrichment, per-tenant routing to Loki and Tempo, an on-disk queue for backend outages and Docker Compose files for every recipe."
   button: See the recipes
-  url: https://fractaltechware.gumroad.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-logs-to-loki-otlp
+  url: https://store.fractaltechware.com/l/otel-collector-recipes?utm_source=site&utm_medium=guide&utm_campaign=otel-collector-logs-to-loki-otlp
   free: https://github.com/Fractal-Techware/opentelemetry-collector-recipes
 ---
 # Send logs to Grafana Loki with the OpenTelemetry Collector (native OTLP)
