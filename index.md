@@ -8,6 +8,7 @@ Everything we publish ships with automated tests: promtool for alerts, `otelcol 
 
 - **[Alert runbooks](/runbooks/)**: what each common Prometheus alert means and what to check first.
 - **[Guides](/guides/)**: working OpenTelemetry Collector and Kyverno configurations, explained.
+- **[Test your alert rules with promtool](/guides/testing-prometheus-alert-rules-promtool/)**: a rule that can never fire looks exactly like a healthy system.
 
 ## Free on GitHub (MIT)
 

@@ -6,6 +6,10 @@ description: Working, tested OpenTelemetry Collector configurations and Kyverno 
 
 Each guide solves one specific problem with a complete configuration you can copy, explains the settings that matter, and shows how to prove it works. Every config was checked before publishing: `otelcol validate` and a smoke test for collector configs, `kyverno test` for policies, and `kubeconform -strict` for Kubernetes manifests. The tool versions are listed at the top of each guide.
 
+## Prometheus alerts
+
+- **[Test your alert rules with promtool](/guides/testing-prometheus-alert-rules-promtool/)**: a rule that can never fire looks exactly like a healthy system — how to assert that an alert fires, and the test almost nobody writes, that it stays quiet.
+
 ## OpenTelemetry Collector
 
 - **[Tail sampling: a working config](/guides/otel-collector-tail-sampling/)**: keep every error and slow trace plus a small baseline, and why scaling out needs a trace-ID load-balancing tier.
