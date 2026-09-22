@@ -1,6 +1,15 @@
 ---
-title: Test your alert rules with promtool
-description: We shipped a dashboard querying a metric name that does not exist. Alert rules fail the same way and fail silently — here is the promtool suite that catches it, including the test almost nobody writes.
+title: "Test your Prometheus alert rules with promtool (including the test nobody writes)"
+description: "We shipped a dashboard querying a metric that does not exist. Alert rules fail the same way and fail silently — the promtool patterns that catch it, with runnable examples."
+permalink: /guides/testing-prometheus-alert-rules-promtool/
+breadcrumb: {title: Guides, url: /guides/}
+tested_with: "promtool 3.14.0"
+cta:
+  title: "179 tested alert rules, with a runbook each"
+  text: "The alert pack is 179 rules across 20 domains with 364 promtool tests behind them — the positive case, the quiet case and the timing — plus 165 runbooks, PrometheusRule CRDs and tested Alertmanager routing."
+  button: See the alert pack
+  url: https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=guide&utm_campaign=promtool-post
+  free: https://github.com/Fractal-Techware/prometheus-alert-rules
 ---
 # Test your alert rules with promtool
 
@@ -122,11 +131,3 @@ One caveat worth knowing: promtool evaluates your rules against the series *you*
 Our alert pack is 179 rules with 364 promtool tests behind them — roughly two tests per rule, which is the positive case plus the quiet case, with extra cases where a rule has a threshold worth pinning down. Writing them took longer than writing the rules did.
 
 That ratio sounds bad until you consider what the alternative is. An untested alert rule is a claim about production that nobody has checked, and the feedback loop on a wrong one is measured in incidents, not in CI runs. The four assertions above are cheap to write once you have the pattern, and each of them fails loudly at the point where it is still free to fix.
-
-## Try it
-
-The free MIT edition has 12 of these alerts — CrashLooping, OOMKilled, stuck rollouts, disk filling up, node down — with their promtool tests and a runbook each, so you can see the pattern in full and lift it into your own repo:
-
-**[github.com/Fractal-Techware/prometheus-alert-rules](https://github.com/Fractal-Techware/prometheus-alert-rules)**
-
-If you want the whole thing rather than the pattern, the [full pack](https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=guide&utm_campaign=promtool-post) is 179 alerts across 20 domains with 364 tests, 165 runbooks, PrometheusRule CRDs and tested Alertmanager routing.
