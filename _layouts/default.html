@@ -29,6 +29,7 @@
   <p>{{ page.cta.text }}</p>
   <a class="btn" href="{{ page.cta.url }}">{{ page.cta.button }}</a>
   {% if page.cta.free %}<a class="btn ghost" href="{{ page.cta.free }}">Free edition on GitHub</a>{% endif %}
+  {% if page.cta.url contains '/l/prometheus-alert-rules-pack' %}<p><a href="{{ '/prometheus-alert-rules/' | relative_url }}">Compare the free edition with Pro ($49)</a> · Pro includes one year of updates for use within your own organization.</p>{% endif %}
 </aside>
 {% endif %}
 </main>

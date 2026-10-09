@@ -10,6 +10,12 @@ Everything we publish ships with automated tests: promtool for alerts, `otelcol 
 - **[Guides](/guides/)**: working OpenTelemetry Collector and Kyverno configurations, explained.
 - **[Test your alert rules with promtool](/guides/testing-prometheus-alert-rules-promtool/)**: a rule that can never fire looks exactly like a healthy system.
 
+## Start with tested Prometheus alerts
+
+Running Kubernetes or Linux hosts with Prometheus? Try **12 free alert types (14 rules), with 28 promtool tests and runbooks**. When you need database alerts, control-plane coverage, SLO burn rates and tested Alertmanager routing, **Pro is $49 once**, with 179 alerting rules and one year of updates.
+
+**[Compare Free and Pro, and check the fit →](/prometheus-alert-rules/)**
+
 ## Free on GitHub (MIT)
 
 | Repo | What you get |
