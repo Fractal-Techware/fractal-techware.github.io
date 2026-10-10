@@ -9,6 +9,19 @@ Start with 12 MIT-licensed alert types (14 rules including severity variants) fo
 
 **[Try the free edition on GitHub](https://github.com/Fractal-Techware/prometheus-alert-rules)** · **[Get Pro — $49 once](https://store.fractaltechware.com/l/prometheus-alert-rules-pack?utm_source=site&utm_medium=comparison&utm_campaign=first_sale_oct2026&utm_content=top)** (select Pro on the product page)
 
+## Watch the test catch a broken alert
+
+This 62-second terminal demonstration uses synthetic input. A job-label typo passes the syntax check but fails the firing test. On-screen captions explain each step; there is no audio.
+
+<video controls playsinline preload="metadata" aria-label="Prometheus alert test demonstration with on-screen captions" style="width:100%;max-width:960px;height:auto">
+  <source src="{{ '/assets/demos/promtool-demo.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support embedded video. <a href="{{ '/assets/demos/promtool-demo.mp4' | relative_url }}">Download the demonstration</a>.
+</video>
+
+**What happens:** the original NodeExporterDown rule passes its healthy, pending and firing scenarios. Changing the job matcher leaves the YAML valid, but the expected alert disappears from the test result. The matching runbook then explains how to investigate a scrape failure. These tests do not verify your actual scrape labels or notification delivery.
+
+[Read the testing guide](/guides/testing-prometheus-alert-rules-promtool/) or [inspect the free rules, tests and runbooks](https://github.com/Fractal-Techware/prometheus-alert-rules).
+
 ## What changes when you choose Pro?
 
 | | Free | Pro — $49 |
